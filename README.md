@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/b4ba1b9914b4bab3de659e930300364768649253c1c5f5183427a20d2ae96b78/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="MasterHead" data-canonical-src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 # 💫 About Me:
 🔭 I’m a  backend developer specialized on Laravel.<br>💥 I build SaaS applications using Laravel.<br>⚡ I'm open to collaborating on other Laravel projects.<br>🌱 I’m currently software engineering student at Jimma University.<br>⚡ I Love connecting with different people 🙌
 
