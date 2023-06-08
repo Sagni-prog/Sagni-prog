@@ -16,11 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sagni-prog&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagni-prog&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sagni-prog&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/SangniAlemayehu)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 ---
