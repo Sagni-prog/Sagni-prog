@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m a  Fullstack developer specialized.<br>⚡ I'm open to collaborating on other Laravel projects.<br>🌱 I’m currently software engineering student at Jimma University.<br>⚡ I Love connecting with different people 🙌
+🔭 I’m a  Fullstack developer specialized on Backend.<br>⚡ I'm open to collaborating on other Laravel projects.<br>🌱 I’m currently software engineering student at Jimma University.<br>⚡ I Love connecting with different people 🙌
 
 
 
