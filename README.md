@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m a  Fullstack developer specializing in Backend.<br>🗣️ I speak in PHP, JavaScript, Java, and Python. <br>⚡ I'm open to collaborating on other Laravel projects.<br>🔰I am continuously learning new things, languages, algorithms, and frameworks. <br>🎈Solving problems is fun for me.<br>❤️I Love connecting with different people 🙌
+🔭 I’m a  Fullstack developer specializing in Backend.<br>🗣️ I speak in PHP, JavaScript, Node, Java, and Python. <br>⚡ I'm open to collaborating on open source projects.<br>🔰I am continuously learning new things, languages, algorithms, and frameworks. <br>🎈Solving problems is fun for me.<br>❤️I Love connecting with different people 🙌
 
 
 
